@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<JUCERPROJECT id="Jd3FjA" name="Petals Music Player" projectType="guiapp" displaySplashScreen="1"
+              jucerFormatVersion="1">
+  <MAINGROUP id="grknAQ" name="Petals Music Player">
+    <GROUP id="{57466149-8A59-A4BC-3EBB-EDD85A79BD8A}" name="Images">
+      <FILE id="ux6TUQ" name="titlebar.png" compile="0" resource="1" file="Images/titlebar.png"/>
+      <FILE id="nsTv8g" name="glow.png" compile="0" resource="1" file="Images/glow.png"/>
+      <FILE id="ryYveg" name="circle.png" compile="0" resource="1" file="Images/circle.png"/>
+      <FILE id="jBLxO4" name="patternL.png" compile="0" resource="1" file="Images/patternL.png"/>
+      <FILE id="VplHsn" name="patternR.png" compile="0" resource="1" file="Images/patternR.png"/>
+      <FILE id="NXpN3S" name="effect.png" compile="0" resource="1" file="Images/effect.png"/>
+      <FILE id="T0FKtF" name="volBack.png" compile="0" resource="1" file="Images/volBack.png"/>
+      <FILE id="ynZnXq" name="deck.png" compile="0" resource="1" file="Images/deck.png"/>
+      <FILE id="XHEoWN" name="playback.png" compile="0" resource="1" file="Images/playback.png"/>
+      <FILE id="L2JbaU" name="enso test.png" compile="0" resource="1" file="../enso test.png"/>
+      <FILE id="mxmjaM" name="enso.png" compile="0" resource="1" file="../enso.png"/>
+      <FILE id="lnDdzx" name="waveRightB.png" compile="0" resource="1" file="Images/waveRightB.png"/>
+      <FILE id="rQ4EjZ" name="waveRightW.png" compile="0" resource="1" file="Images/waveRightW.png"/>
+      <FILE id="hggf2T" name="waveLeftB.png" compile="0" resource="1" file="Images/waveLeftB.png"/>
+      <FILE id="BQKcBZ" name="waveLeftW.png" compile="0" resource="1" file="Images/waveLeftW.png"/>
+      <FILE id="BqbMxN" name="waveLeft.png" compile="0" resource="1" file="Images/waveLeft.png"/>
+      <FILE id="XZNY3C" name="waveRight.png" compile="0" resource="1" file="Images/waveRight.png"/>
+      <FILE id="gVW1ei" name="headset.png" compile="0" resource="1" file="Images/headset.png"/>
+      <FILE id="SMBaPB" name="iTunes.png" compile="0" resource="1" file="Images/iTunes.png"/>
+      <FILE id="JPmoEd" name="dark.png" compile="0" resource="1" file="Images/dark.png"/>
+      <FILE id="ThJQK6" name="light.png" compile="0" resource="1" file="Images/light.png"/>
+      <FILE id="FRm5sp" name="nex.png" compile="0" resource="1" file="Images/nex.png"/>
+      <FILE id="Be6hD5" name="deckDown.png" compile="0" resource="1" file="Images/deckDown.png"/>
+      <FILE id="Q1sbbg" name="deckTop.png" compile="0" resource="1" file="Images/deckTop.png"/>
+      <FILE id="Z072jH" name="deck1B.png" compile="0" resource="1" file="Images/deck1B.png"/>
+      <FILE id="TAAqst" name="deck1O.png" compile="0" resource="1" file="Images/deck1O.png"/>
+      <FILE id="YVLS0T" name="deck1W.png" compile="0" resource="1" file="Images/deck1W.png"/>
+      <FILE id="JgzcXJ" name="deck2B.png" compile="0" resource="1" file="Images/deck2B.png"/>
+      <FILE id="DoA0XO" name="deck2O.png" compile="0" resource="1" file="Images/deck2O.png"/>
+      <FILE id="CRFGrz" name="deck2W.png" compile="0" resource="1" file="Images/deck2W.png"/>
+      <FILE id="cMOOS6" name="settings.png" compile="0" resource="1" file="Images/settings.png"/>
+      <FILE id="we0RqT" name="settingsOver.png" compile="0" resource="1"
+            file="Images/settingsOver.png"/>
+      <FILE id="MOFqcs" name="loop.png" compile="0" resource="1" file="Images/loop.png"/>
+      <FILE id="sXHgwg" name="loopOver.png" compile="0" resource="1" file="Images/loopOver.png"/>
+      <FILE id="h7Tyym" name="next.png" compile="0" resource="1" file="Images/next.png"/>
+      <FILE id="MoHdks" name="prev.png" compile="0" resource="1" file="Images/prev.png"/>
+      <FILE id="W7qZ3H" name="nextOver.png" compile="0" resource="1" file="Images/nextOver.png"/>
+      <FILE id="SF215G" name="prevOver.png" compile="0" resource="1" file="Images/prevOver.png"/>
+      <FILE id="N1oYZP" name="prevButton.png" compile="0" resource="1" file="Images/prevButton.png"/>
+      <FILE id="WrAwqh" name="nextButton.png" compile="0" resource="1" file="Images/nextButton.png"/>
+      <FILE id="mXEw3f" name="iconG.png" compile="0" resource="1" file="Images/iconG.png"/>
+      <FILE id="anm4BI" name="icon.png" compile="0" resource="1" file="Images/icon.png"/>
+      <FILE id="MIOcmb" name="iconOver.png" compile="0" resource="1" file="Images/iconOver.png"/>
+      <FILE id="fAH316" name="design.png" compile="0" resource="1" file="Images/design.png"/>
+      <FILE id="akzT9f" name="info.png" compile="0" resource="1" file="Images/info.png"/>
+      <FILE id="ziLsRr" name="load.png" compile="0" resource="1" file="Images/load.png"/>
+      <FILE id="s3Vk3V" name="loadOver.png" compile="0" resource="1" file="Images/loadOver.png"/>
+      <FILE id="OzReYh" name="play.png" compile="0" resource="1" file="Images/play.png"/>
+      <FILE id="V53aZW" name="playlist.png" compile="0" resource="1" file="Images/playlist.png"/>
+      <FILE id="RLsXQd" name="playlistOver.png" compile="0" resource="1"
+            file="Images/playlistOver.png"/>
+      <FILE id="iAdYo9" name="playOver.png" compile="0" resource="1" file="Images/playOver.png"/>
+      <FILE id="gu2DrP" name="playhead.png" compile="0" resource="1" file="Images/playhead.png"/>
+      <FILE id="fePEU2" name="playheadDown.png" compile="0" resource="1"
+            file="Images/playheadDown.png"/>
+      <FILE id="GLzHj3" name="playheadOver.png" compile="0" resource="1"
+            file="Images/playheadOver.png"/>
+      <FILE id="QyVNH9" name="position.png" compile="0" resource="1" file="Images/position.png"/>
+      <FILE id="zZVQdN" name="speed.png" compile="0" resource="1" file="Images/speed.png"/>
+      <FILE id="R7vHs5" name="stop.png" compile="0" resource="1" file="Images/stop.png"/>
+      <FILE id="ExZXEy" name="stopOver.png" compile="0" resource="1" file="Images/stopOver.png"/>
+      <FILE id="c96hhH" name="volume.png" compile="0" resource="1" file="Images/volume.png"/>
+      <FILE id="s8ITfB" name="KNB_R.png" compile="0" resource="1" file="../KnobMan/KNB_R.png"/>
+      <FILE id="IuAu5O" name="Gaita.png" compile="0" resource="1" file="../KnobMan/Gaita.png"/>
+      <FILE id="RtOz6E" name="KNB_B.png" compile="0" resource="1" file="../KnobMan/KNB_B.png"/>
+      <FILE id="wdUDK1" name="KNB_G.png" compile="0" resource="1" file="../KnobMan/KNB_G.png"/>
+      <FILE id="gjFfrv" name="KNB_O.png" compile="0" resource="1" file="../KnobMan/KNB_O.png"/>
+    </GROUP>
+    <GROUP id="{DFEC7903-6545-E75E-768A-4A5CEF36D7E1}" name="Source">
+      <FILE id="qlTYIf" name="CustomControl.cpp" compile="1" resource="0"
+            file="Source/CustomControl.cpp"/>
+      <FILE id="CJm5mQ" name="CustomControl.h" compile="0" resource="0" file="Source/CustomControl.h"/>
+      <FILE id="XGdkaN" name="DeckGUI.cpp" compile="1" resource="0" file="Source/DeckGUI.cpp"/>
+      <FILE id="VCvjo3" name="DeckGUI.h" compile="0" resource="0" file="Source/DeckGUI.h"/>
+      <FILE id="orpf6S" name="DJAudioPlayer.cpp" compile="1" resource="0"
+            file="Source/DJAudioPlayer.cpp"/>
+      <FILE id="i0kgDx" name="DJAudioPlayer.h" compile="0" resource="0" file="Source/DJAudioPlayer.h"/>
+      <FILE id="DA75Mx" name="PlaylistComponent.cpp" compile="1" resource="0"
+            file="Source/PlaylistComponent.cpp"/>
+      <FILE id="fmm4x3" name="PlaylistComponent.h" compile="0" resource="0"
+            file="Source/PlaylistComponent.h"/>
+      <FILE id="N4qeVe" name="WaveformDisplay.cpp" compile="1" resource="0"
+            file="Source/WaveformDisplay.cpp"/>
+      <FILE id="hE36s3" name="WaveformDisplay.h" compile="0" resource="0"
+            file="Source/WaveformDisplay.h"/>
+      <FILE id="D4YWsu" name="myLookAndFeel.cpp" compile="1" resource="0"
+            file="Source/myLookAndFeel.cpp"/>
+      <FILE id="aK0e1f" name="myLookAndFeel.h" compile="0" resource="0" file="Source/myLookAndFeel.h"/>
+      <FILE id="U4mTdP" name="Main.cpp" compile="1" resource="0" file="Source/Main.cpp"/>
+      <FILE id="LlgtDd" name="MainComponent.h" compile="0" resource="0" file="Source/MainComponent.h"/>
+      <FILE id="TLz9oQ" name="MainComponent.cpp" compile="1" resource="0"
+            file="Source/MainComponent.cpp"/>
+    </GROUP>
+    <FILE id="l3DDSk" name="Septacharge.ttf" compile="0" resource="1" file="Septacharge.ttf"/>
+    <FILE id="BKuSDK" name="RobotoSlabRegular.ttf" compile="0" resource="1"
+          file="RobotoSlabRegular.ttf"/>
+    <FILE id="ymIuY5" name="Montserrat-Bold.ttf" compile="0" resource="1"
+          file="Montserrat-Bold.ttf"/>
+    <FILE id="n9IjEr" name="Montserrat-Regular.ttf" compile="0" resource="1"
+          file="Montserrat-Regular.ttf"/>
+    <FILE id="rnhr6h" name="Neon.ttf" compile="0" resource="1" file="Neon.ttf"/>
+  </MAINGROUP>
+  <JUCEOPTIONS JUCE_STRICT_REFCOUNTEDPOINTER="1"/>
+  <EXPORTFORMATS>
+    <VS2019 targetFolder="Builds/VisualStudio2019">
+      <CONFIGURATIONS>
+        <CONFIGURATION isDebug="1" name="Debug" targetName="Petals Music Player"/>
+        <CONFIGURATION isDebug="0" name="Release" targetName="Petals Music Player"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_audio_basics" path="../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_devices" path="../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_formats" path="../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_processors" path="../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_utils" path="../JUCE/modules"/>
+        <MODULEPATH id="juce_core" path="../JUCE/modules"/>
+        <MODULEPATH id="juce_data_structures" path="../JUCE/modules"/>
+        <MODULEPATH id="juce_events" path="../JUCE/modules"/>
+        <MODULEPATH id="juce_graphics" path="../JUCE/modules"/>
+        <MODULEPATH id="juce_gui_basics" path="../JUCE/modules"/>
+        <MODULEPATH id="juce_gui_extra" path="../JUCE/modules"/>
+        <MODULEPATH id="juce_dsp" path="../JUCE/modules"/>
+      </MODULEPATHS>
+    </VS2019>
+  </EXPORTFORMATS>
+  <MODULES>
+    <MODULE id="juce_audio_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_devices" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_formats" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_processors" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_utils" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_core" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_data_structures" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_dsp" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_events" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_graphics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_extra" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+  </MODULES>
+  <LIVE_SETTINGS>
+    <WINDOWS/>
+  </LIVE_SETTINGS>
+</JUCERPROJECT>
